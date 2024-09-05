@@ -15,7 +15,7 @@ export function NavigationBar() {
         <Link href="/" className="[&.active]:font-bold">
           home
         </Link>
-        <Link href="/posts" className="[&.active]:font-bold">
+        <Link href="/post" className="[&.active]:font-bold">
           Posts
         </Link>
         <Link href="/config" className="[&.active]:font-bold">
